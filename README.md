@@ -317,3 +317,4 @@ It consists of an array of objects storing all the projects on this webpage.
 
 * Fontawesome
 <br />https://www.npmjs.com/package/@fortawesome/free-brands-svg-icons
+
