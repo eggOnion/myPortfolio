@@ -3,7 +3,7 @@
 This project was built for my Coursera's assignment - React Advance with Meta. Here are some of my learnings, as well as the scope of this project.
 <br />
 
-[My Portfolio webpage using React](https://eggonion.github.io/myPortfolio/)
+https://eggonion.github.io/myPortfolio/
 ---
 
 ## The collective tools used in this project:
