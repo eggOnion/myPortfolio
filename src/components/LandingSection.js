@@ -26,6 +26,17 @@ const LandingSection = () => (
     <br />
     <p style={{ fontSize: "45px" }}>{bio1}</p>
     <p style={{ fontSize: "35px" }}>{bio2}</p>
+    <p >
+      <a
+          className="App-link"
+          href="https://github.com/eggOnion/myPortfolio?tab=readme-ov-file"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ textDecoration: 'underline', color: '#FFFFFF' }}
+        >
+          Visit my learning journey here 
+      </a>
+    </p>
   </FullScreenSection>
 );
 
