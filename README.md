@@ -6,8 +6,9 @@ This project was built for my Coursera's assignment - React Advance with Meta. H
 https://eggonion.github.io/myPortfolio/
 
 <br />
-My previous assignment on React Basic  with Meta
-https://github.com/eggOnion/myCalculator
+
+My previous assignment on React Basic with Meta 
+[HERE](https://github.com/eggOnion/myCalculator "HERE")
 
 ---
 
