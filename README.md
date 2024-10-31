@@ -4,6 +4,11 @@ This project was built for my Coursera's assignment - React Advance with Meta. H
 <br />
 
 https://eggonion.github.io/myPortfolio/
+
+<br />
+My previous assignment on React Basic  with Meta
+https://github.com/eggOnion/myCalculator
+
 ---
 
 ## The collective tools used in this project:
